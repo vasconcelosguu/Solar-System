@@ -17,3 +17,8 @@ Projeto simples utilizando React.js, Componentes, CSS e JavaScript junto a teste
 
 - [@Gustavo Vasconcelos](https://github.com/vasconcelosguu)
 
+
+## Importante
+
+Lembre-se de utilizar Npm Install para instalar as dependencias para ver a aplicação.
+
